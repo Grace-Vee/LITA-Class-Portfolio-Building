@@ -101,11 +101,11 @@ WHERE condition = True
 
 ### Recommendations
 ---
-The followings were recommended based on findings from the data Annalysis, which enabled us took informed decisions which include:
- 1 Price should be reviewed
- 2 Aggresive awareness and Marketing should be carried out on products
- 3 Competitors strategies should be studied
-
- 😆
+The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
+ 1 Price review
+ 2 Aggresive awareness and Marketing  on products
+ 3 Studying Competitors strategies 
  
- 💻
+ ### Thank You
+ 
+ 
