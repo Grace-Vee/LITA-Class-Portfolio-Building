@@ -20,3 +20,24 @@ Data used for this project was provided by the trainer, other data were sourced 
    3 GitHub for:
      * Portfolio Building 
     
+## Data Cleaning 
+During the initial phase of the data entry, the folowing actions were performed
+1. Data Generation and input
+2. Data Cleaning and Structuring
+3. data Formatting
+
+## Exploratory Data Analysis
+Data were analysed to get the following information
+1.  Sales trend
+2. maximum products sold
+3. products that should be discontinued
+4. Products that need more attentions on
+5. Top selling products
+
+Data Analysis
+data Visualization
+
+Tables
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table1|Table2|Tablw3|
