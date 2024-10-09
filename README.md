@@ -10,10 +10,15 @@
 [Tools used](#tools-used)
 
 [Data Cleaning and preparation](#data-cleaning-and-preparation) 
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Analysis](#data-analysis)
+
 [Data Visualization](#data-visualization)
+
 [Table](#table)
+
 [Recommendations](#recommendations)
 
 ### Project Overview
