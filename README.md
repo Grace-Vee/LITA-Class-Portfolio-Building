@@ -62,13 +62,22 @@ WHERE condition = True
 
 ### Tables
 ---
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table1|Table2|Table3|
+|Row Labels|Sum of Revenue|
+|---------|---------|
+|2500C|2,704,880,640.00|
+|2500P|2,016,922,560.00|
+|3002C|2,454,378,360.00|
+|3002P|8,436,580,920.00|
+|4055T|364,476,840.00|
+|4500C|5,802,022,200.00|
+|4500P|573,689,640.00|
+|5001C|635,223,360.00|
+|5001P|1,579,207,560.00|
+|Grand Total|24,567,382,080.00|
 
 ### Recommendations
 ---
-The followings were recommended based on findings from the data Annalysis: which enabled us took informed decisions
+The followings were recommended based on findings from the data Annalysis, which enabled us took informed decisions which include:
  1 Price should be reviewed
  2 Aggresive awareness and Marketing should be carried out on products
  3 Competitors strategies should be studied
