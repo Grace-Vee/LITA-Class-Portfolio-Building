@@ -9,7 +9,7 @@ This project was part of the training conducted during the LITA Data Analysis cl
 Data used for this project was provided by the trainer, other data were sourced from data repository sites like kaggle and FRED
 
 ## Tools used
-   1 Microsoft Excel for:
+   1 Microsoft Excel [Downkload Here](https://microsoft-excel)  for:
      * Data Input
      * Analysis
      * data Cleaning
@@ -34,10 +34,11 @@ Data were analysed to get the following information
 4. Products that need more attentions on
 5. Top selling products
 
-Data Analysis
-data Visualization
+## Data Analysis
 
-Tables
+## Data Visualization
+
+## Tables
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
-|Table1|Table2|Tablw3|
+|Table1|Table2|Table3|
