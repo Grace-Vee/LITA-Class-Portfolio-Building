@@ -2,6 +2,20 @@
 
 ## Project Title: Data Entry and Visualization in Excel
 
+## Outline
+[Project Overview](#project-overview
+
+[Data Sources](#Data-sources)
+
+[Tools used](#tools-used)
+
+[Data Cleaning and preparation](#data-cleaning-and-preparation) 
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+[Table](#table)
+[Recommendations](#recommendations)
+
 ### Project Overview
 ---
 This project was part of the training conducted during the LITA Data Analysis class. The goal of the project was to get hands-on training experience on real life data entry in Excel, using scenariors that needs large volume of data to be inputed.categorized and analyzed.During the project, data were extracted from different sources, inputed,cleaned, structured and analysed. The project aimed at srrenthening core skills such as Technical skills, Data visualization, Critical Thinking, Data Wrangling, data cleaning, data Validation, and data structuring, needed to be an excellent data Analyst.
@@ -53,6 +67,11 @@ WHERE condition = True
 ```
 ### Data Visualization
 ---
+![image](https://github.com/user-attachments/assets/f8b7aca8-1e90-49ad-8b0f-f7a91402dda7)
+
+![image](https://github.com/user-attachments/assets/4b78e264-86cb-4f88-9ffe-6407b90b1963)
+
+
 ![image](https://github.com/user-attachments/assets/142739a6-755f-4418-8abd-f33e988a67c9)
 
 ![image](https://github.com/user-attachments/assets/9ec9bf57-87df-4899-bf79-2c72c3a69288)
@@ -81,3 +100,7 @@ The followings were recommended based on findings from the data Annalysis, which
  1 Price should be reviewed
  2 Aggresive awareness and Marketing should be carried out on products
  3 Competitors strategies should be studied
+
+ 😆
+ 
+ 💻
