@@ -53,6 +53,11 @@ WHERE condition = True
 ```
 ### Data Visualization
 ---
+![image](https://github.com/user-attachments/assets/142739a6-755f-4418-8abd-f33e988a67c9)
+
+![image](https://github.com/user-attachments/assets/9ec9bf57-87df-4899-bf79-2c72c3a69288)
+
+![image](https://github.com/user-attachments/assets/3a7a1cf2-0142-4aa9-9e90-1c03bd0dc8c7)
 
 
 ### Tables
