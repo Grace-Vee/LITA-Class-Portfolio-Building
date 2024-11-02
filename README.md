@@ -65,10 +65,16 @@ Some of the code used to analysed the data are:
 ```Excel
 VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
 LEFT(text,[num_char])
+SUMIF(range,criteria,[sum_range])
 ```
 ```SQL
 SELECT * FROM TABLE 1
 WHERE condition = True
+
+```Power Bi
+Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
+Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
+
 ```
 ### Data Visualization
 ---
