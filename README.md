@@ -44,7 +44,7 @@ Data used for this project is Data Sale.csv. This is an open source of Data that
     
 ### Data Cleaning and preparation
 ---
-During the initial phase of the data entry, the folowing actions were performed
+- During the initial phase of the data entry, the folowing actions were performed
      1. Data Generation and input
      2. Handling Missing variables
      3. Data Cleaning and Structuring
@@ -52,11 +52,11 @@ During the initial phase of the data entry, the folowing actions were performed
 
 ### Exploratory Data Analysis (EDA)
 ---
-EDA was done to explore the data, answere some unknown questions and get informations such as: 
+- EDA was done to explore the data, answere some unknown questions and get informations such as: 
     1. Overall Sales trend
     2. Maximum products sold
     3. products that should be discontinued
-4. Products that need more attentions on
+    4. Products that need more attentions on
     5. Top selling products
 
 ### Data Analysis
@@ -70,12 +70,12 @@ SUMIF(range,criteria,[sum_range])
 ```SQL
 SELECT * FROM TABLE 1
 WHERE condition = True
-
+```
 ```Power Bi
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
-
 ```
+
 ### Data Visualization
 ---
 ![image](https://github.com/user-attachments/assets/f8b7aca8-1e90-49ad-8b0f-f7a91402dda7)
@@ -108,9 +108,9 @@ Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 ### Recommendations
 ---
 The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
- 1 Price review
- 2 Aggresive awareness and Marketing  on products
- 3 Studying Competitors strategies 
+  1. Price review
+  2. Aggresive awareness and Marketing  on products
+  3. Studying Competitors strategies 
  
  ### Thank You
  
