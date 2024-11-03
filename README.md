@@ -3,7 +3,7 @@
 ## Project Title: Data Entry and Visualization in Excel
 
 ## Outline
-[Project Overview](#project-overview
+[Project Overview](#project-overview)
 
 [Data Sources](#Data-sources)
 
