@@ -62,16 +62,16 @@ Data used for this project is Data Sale.csv. This is an open source of Data that
 ### Data Analysis
 ---
 Some of the code used to analysed the data are:
-```Excel
+- ```Excel
 VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
 LEFT(text,[num_char])
 SUMIF(range,criteria,[sum_range])
 ```
-```SQL
+- ```SQL
 SELECT * FROM TABLE 1
 WHERE condition = True
 ```
-```Power Bi
+- ```Power Bi
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 ```
@@ -107,10 +107,10 @@ Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 
 ### Recommendations
 ---
-The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
-  1. Price review
-  2. Aggresive awareness and Marketing  on products
-  3. Studying Competitors strategies 
+- The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
+   1. Price review
+   2. Aggresive awareness and Marketing  on products
+   3. Studying Competitors strategies 
  
  ### Thank You
  
