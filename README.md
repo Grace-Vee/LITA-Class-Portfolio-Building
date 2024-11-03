@@ -62,32 +62,32 @@ Data used for this project is Data Sale.csv. This is an open source of Data that
 ### Data Analysis
 ---
 Some of the code used to analysed the data are:
-- ```Excel
+```Excel
 VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
 LEFT(text,[num_char])
 SUMIF(range,criteria,[sum_range])
 ```
-- ```SQL
+```SQL
 SELECT * FROM TABLE 1
 WHERE condition = True
 ```
-- ```Power Bi
+```Power Bi
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 ```
 
 ### Data Visualization
 ---
-![image](https://github.com/user-attachments/assets/f8b7aca8-1e90-49ad-8b0f-f7a91402dda7)
+- ![image](https://github.com/user-attachments/assets/f8b7aca8-1e90-49ad-8b0f-f7a91402dda7)
 
-![image](https://github.com/user-attachments/assets/4b78e264-86cb-4f88-9ffe-6407b90b1963)
+- ![image](https://github.com/user-attachments/assets/4b78e264-86cb-4f88-9ffe-6407b90b1963)
 
 
-![image](https://github.com/user-attachments/assets/142739a6-755f-4418-8abd-f33e988a67c9)
+- ![image](https://github.com/user-attachments/assets/142739a6-755f-4418-8abd-f33e988a67c9)
 
-![image](https://github.com/user-attachments/assets/9ec9bf57-87df-4899-bf79-2c72c3a69288)
+- ![image](https://github.com/user-attachments/assets/9ec9bf57-87df-4899-bf79-2c72c3a69288)
 
-![image](https://github.com/user-attachments/assets/3a7a1cf2-0142-4aa9-9e90-1c03bd0dc8c7)
+- ![image](https://github.com/user-attachments/assets/3a7a1cf2-0142-4aa9-9e90-1c03bd0dc8c7)
 
 
 ### Tables
