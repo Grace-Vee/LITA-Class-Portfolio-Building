@@ -45,19 +45,19 @@ Data used for this project is Data Sale.csv. This is an open source of Data that
 ### Data Cleaning and preparation
 ---
 During the initial phase of the data entry, the folowing actions were performed
-1. Data Generation and input
-2. Handling Missing variables
-3. Data Cleaning and Structuring
-4. Data Formatting
+     1. Data Generation and input
+     2. Handling Missing variables
+     3. Data Cleaning and Structuring
+     4. Data Formatting
 
 ### Exploratory Data Analysis (EDA)
 ---
 EDA was done to explore the data, answere some unknown questions and get informations such as: 
-1. Overall Sales trend
-2. Maximum products sold
-3. products that should be discontinued
+    1. Overall Sales trend
+    2. Maximum products sold
+    3. products that should be discontinued
 4. Products that need more attentions on
-5. Top selling products
+    5. Top selling products
 
 ### Data Analysis
 ---
