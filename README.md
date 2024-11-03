@@ -107,7 +107,7 @@ Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 
 ### Recommendations
 ---
-- The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
+- The followings were recommended based on findings from the Data Analysis, which enabled us took informed decisions such as:
    1. Price review
    2. Aggresive awareness and Marketing  on products
    3. Studying Competitors strategies 
